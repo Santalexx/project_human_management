@@ -20,10 +20,11 @@ El sistema se implementará como una aplicación web local que facilita la gesti
 
 - Creación de formularios dinámicos
 - Diferentes tipos de preguntas:
-1.Texto libre
-2.Opción múltiple
-3.Escala de valoración
-4.Preguntas tipo Sí/No
+1. Texto libre
+2. Opción múltiple
+3. Escala de valoración
+4. Preguntas tipo Sí/No
+
 - Categorización de preguntas por temas
 - Formularios personalizables según departamento o rol
 
